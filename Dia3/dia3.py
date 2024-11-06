@@ -103,3 +103,5 @@ divisao_exata = (conta % amigos) == 0
 
 print("A divisão é exata? ", divisao_exata)
 print("Qual é o valor a ser pago por cada pessoa? ", valor_pessoa)
+
+
