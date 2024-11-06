@@ -1,0 +1,1 @@
+print('Olá Cleiton Santos, Seja bem-vindo ao Método Mente Lógica!')
